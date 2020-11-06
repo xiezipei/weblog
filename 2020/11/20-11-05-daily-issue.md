@@ -1,0 +1,67 @@
+# 日报 20-11-05
+
+注：以下皆为指 Angular 项目。
+
+## 如何创建组件
+
+因为习惯了上一个项目的做法，新建模块、组件、页面的时候，都是简单的复制粘贴某写好的 `component` 到新创建文件夹（这文件夹一般是个小 `module`，但是不包含 `.module.ts` 和 `-routing.module.ts`，会放多个 `component`，如 `list`、`form`、`detail` 等），然后修改。现在觉得这样做法效率很低：
+
+1. 要改多个文件名
+2. 要改 `component` 里面各种导出、引用的 `name`
+3. 把源文件的一些特定方法、参数都带过来了，一点也不纯粹、不 `template`
+4. ...
+
+后面我还是改为使用 `ng cli` 命令来生成。问题是用 cli 生成的文件缩进为2，但我们规范为4，有空看看文档怎么改（目前可以使用 vscode 插件一键缩进）。
+
+![Angular模块](https://user-images.githubusercontent.com/5949351/98320011-f9f9c180-201c-11eb-9d39-9d3c7df9448c.png)
+
+
+## 如何模拟从服务器获取数据
+
+Angular 官方文档对于组件和服务的职责说的很清楚（[传送门](https://angular.cn/tutorial/toh-pt4)）：
+
+> 1. 组件不应该直接获取或保存数据，它们不应该了解是否在展示假数据。 它们应该聚焦于展示数据，而把数据访问的职责委托给某个服务。
+> 2. 可以从任何地方获取数据：Web 服务、本地存储（LocalStorage）或一个模拟的数据源。
+> 3. 从组件中移除数据访问逻辑，意味着将来任何时候你都可以改变目前的实现方式，而不用改动任何组件。 这些组件不需要了解该服务的内部实现。
+
+在项目中，正确的做法就是要将 `组件` 和 `服务` 解耦。在项目前期这会很有用，前端写完界面组件后从某个地方 `mock` 数据，等后面后端开发完了再换个数据源，后期工作就大大减少。
+
+那么现在问题来了，如何模拟从服务器获取数据？
+
+1. 用 `HttpClinet` 请求 json 文件（很偷懒的做法，且不能真实模拟）
+2. 使用 Angular 官网推荐的一个工具库 `angular-in-memory-web-api`
+
+`user.service.ts`：
+
+```ts
+import { Injectable } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+import { Observable } from 'rxjs';
+import { ASSERT_PATH } from '../../config/datas/api';
+
+@Injectable({
+    providedIn: 'root'
+})
+
+export class UserService {
+    constructor(
+        private httpClient: HttpClient
+    ) {}
+
+    getUserList(): Observable<any> {
+        return this.httpClient.get(ASSERT_PATH + '/fake-data/user-list.json');
+    }
+}
+```
+
+`user.component.ts`：
+
+```ts
+getUserList() {
+    this.userService.getUserList().subscribe(res => {
+        this.userList = res.data;
+    }, err => {
+        this.message.error(err);
+    });
+}
+```

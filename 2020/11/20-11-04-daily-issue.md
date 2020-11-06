@@ -1,6 +1,6 @@
 # 日报 20-11-04
 
-## ESLint error 1
+## eslint error 1
 
 有时候 vscode 如果没有全局开启 ESLint，会报以下错误：
 
