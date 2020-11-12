@@ -24,11 +24,11 @@ git config --global user.email <your email>
 
 全局默认改为公司 GitLab 的：
 
-![全局默认](https://user-images.githubusercontent.com/5949351/98758103-ed081400-2408-11eb-92f9-701c2091ae34.png)
+![st-global](https://user-images.githubusercontent.com/5949351/98758103-ed081400-2408-11eb-92f9-701c2091ae34.png)
 
 GitHub 项目仓库取消默认全局的：
 
-![取消全局默认](https://user-images.githubusercontent.com/5949351/98758100-e8dbf680-2408-11eb-910d-3d30254cc1df.png)
+![st-cancel](https://user-images.githubusercontent.com/5949351/98758100-e8dbf680-2408-11eb-910d-3d30254cc1df.png)
 
 ## Excel
 

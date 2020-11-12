@@ -13,7 +13,7 @@
 
 后面我还是改为使用 `ng cli` 命令来生成。问题是用 cli 生成的文件缩进为2，但我们规范为4，有空看看文档怎么改（目前可以使用 vscode 插件一键缩进）。
 
-![Angular模块](https://user-images.githubusercontent.com/5949351/98320011-f9f9c180-201c-11eb-9d39-9d3c7df9448c.png)
+![ng-module](https://user-images.githubusercontent.com/5949351/98320011-f9f9c180-201c-11eb-9d39-9d3c7df9448c.png)
 
 
 ## 如何模拟从服务器获取数据
