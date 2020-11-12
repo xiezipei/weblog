@@ -1,0 +1,40 @@
+# 日报 20-11-11 | tree-node-cli
+
+今天介绍一个树形目录打印工具：`tree-node-cli`。
+
+npm 地址：[传送门](https://www.npmjs.com/package/tree-node-cli)
+
+官方介绍：
+
+> Lists the contents of directories in a tree-like format, similar to the Linux tree command. Both CLI and Node APIs are provided.
+
+效果展示：
+
+```
+$ tree -L 2 -I "node_modules"
+tree-node-cli
+├── LICENSE
+├── README.md
+├── __tests__
+│   ├── __fixtures__
+│   ├── __snapshots__
+│   ├── fixtures
+│   └── tree.test.js
+├── bin
+│   └── tree
+├── jest.config.js
+├── package.json
+├── tree.js
+└── yarn.lock
+```
+
+安装：
+
+```sh
+npm install tree-node-cli
+
+# or globally 
+npm install -g tree-node-cli
+```
+
+更多详情请查阅仓库文档。
