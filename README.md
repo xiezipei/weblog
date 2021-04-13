@@ -10,17 +10,18 @@
 
 |缩写|英文|标题|
 |---|---|--|
-|css|css|CSS|
-|db|database|数据库|
-|doc|project document|项目文档|
-|fefw|front-end framework|前端框架|
-|ios|ios development|iOS 开发|
-|js|javascript|JavaScript|
-|off|office|办公软件|
-|spec|code specification|代码规范|
-|tool|toolkit|开发工具|
-|vc|version control|版本控制|
-|opt|performance optimization|性能优化|
+|css|css|[CSS](#css)|
+|db|database|[数据库](#数据库)|
+|doc|project document|[项目文档](#项目文档)|
+|fefw|front-end framework|[前端框架](#前端框架)|
+|ios|ios development|[iOS 开发](#ios-开发)|
+|js|javascript|[JavaScript](#JavaScript)|
+|off|office|[办公软件](#办公软件)|
+|opt|performance optimization|[性能优化](#性能优化)|
+|spec|code specification|[代码规范](#代码规范)|
+|tool|toolkit|[开发工具](#开发工具)|
+|ts|typescript|[TypeScript](#TypeScript)|
+|vc|version control|[版本控制](#版本控制)|
 
 ### CSS
 
@@ -77,6 +78,11 @@
 
 1. [Excel 两种快速输入](./off/201105.md)
 
+### 性能优化
+
+1. [解决 Content Download 过载问题](./opt/201001.md)
+2. [拖拽卡顿问题与 setTimeout 探索](./opt/210201.md)
+
 ### 代码规范
 
 1. [解决 ESLint 两种错误提示](./spec/201102.md)
@@ -89,6 +95,8 @@
 4. [Intellij IDEA & Sass 使用记录汇总](https://segmentfault.com/a/1190000008552365)
 5. [Sublime Text 使用记录汇总](https://segmentfault.com/a/1190000008594620)
 
+### TypeScript
+
 ### 版本控制
 
 1. [解决 SourceTree 跳过 Husky git pre-commit 钩子校验问题](./vc/201101.md)
@@ -98,8 +106,3 @@
 5. [在 Mac 上如何向 GitHub 提交代码？](https://segmentfault.com/a/1190000015724894)
 6. [《GitHub 入门与实践》阅读笔记（前3章）](https://segmentfault.com/a/1190000015724936)
 7. [《GitHub 入门与实践》阅读笔记（第4章）](https://segmentfault.com/a/1190000015724991)
-
-### 性能优化
-
-1. [解决 Content Download 过载问题](./opt/201001.md)
-2. [拖拽卡顿问题与 setTimeout 探索](./opt/210201.md)
