@@ -8,20 +8,20 @@
 
 ## Content
 
-|缩写|英文|标题|
-|---|---|--|
-|css|css|[CSS](#css)|
-|db|database|[数据库](#数据库)|
-|doc|project document|[项目文档](#项目文档)|
-|fefw|front-end framework|[前端框架](#前端框架)|
-|ios|ios development|[iOS 开发](#ios-开发)|
-|js|javascript|[JavaScript](#JavaScript)|
-|off|office|[办公软件](#办公软件)|
-|opt|performance optimization|[性能优化](#性能优化)|
-|spec|code specification|[代码规范](#代码规范)|
-|tool|toolkit|[开发工具](#开发工具)|
-|ts|typescript|[TypeScript](#TypeScript)|
-|vc|version control|[版本控制](#版本控制)|
+|缩写|英文|标题|数量|
+|---|---|--|--|
+|css|css|[CSS](#css)|20|
+|db|database|[数据库](#数据库)|1|
+|doc|project document|[项目文档](#项目文档)|1|
+|fefw|front-end framework|[前端框架](#前端框架)|5|
+|ios|ios development|[iOS 开发](#ios-开发)|1|
+|js|javascript|[JavaScript](#JavaScript)|5|
+|off|office|[办公软件](#办公软件)|1|
+|opt|performance optimization|[性能优化](#性能优化)|2|
+|spec|code specification|[代码规范](#代码规范)|1|
+|tool|toolkit|[开发工具](#开发工具)|5|
+|ts|typescript|[TypeScript](#TypeScript)|0|
+|vc|version control|[版本控制](#版本控制)|7|
 
 ### CSS
 
@@ -56,11 +56,11 @@
 
 ### 前端框架
 
-1. [Angular 如何模拟从服务器获取数据](./fefw/201103.md)
-2. [Virtual DOM](./fefw/201104.md)
-3. [Framework7 v4 Core 文档翻译（一）](https://juejin.cn/post/6844903891423723527)
-4. [Framework7 v4 Core 文档翻译（二）](https://juejin.cn/post/6844903891625050120)
-5. [Framework7 v4 Core 文档翻译（三）](https://juejin.cn/post/6844903893361491982)
+1. [Framework7 v4 Core 文档翻译（一）](https://juejin.cn/post/6844903891423723527)
+2. [Framework7 v4 Core 文档翻译（二）](https://juejin.cn/post/6844903891625050120)
+3. [Framework7 v4 Core 文档翻译（三）](https://juejin.cn/post/6844903893361491982)
+4. [Angular 如何模拟从服务器获取数据](./fefw/201103.md)
+5. [Virtual DOM](./fefw/201104.md)
 
 ### iOS 开发
 
@@ -99,10 +99,10 @@
 
 ### 版本控制
 
-1. [解决 SourceTree 跳过 Husky git pre-commit 钩子校验问题](./vc/201101.md)
-2. [Git 快速入门](https://segmentfault.com/a/1190000000725599)
-3. [Git 进阶 —— 时光穿梭机](https://segmentfault.com/a/1190000000730170)
-4. [Git 进阶 —— 远程仓库](https://segmentfault.com/a/1190000000738398)
-5. [在 Mac 上如何向 GitHub 提交代码？](https://segmentfault.com/a/1190000015724894)
-6. [《GitHub 入门与实践》阅读笔记（前3章）](https://segmentfault.com/a/1190000015724936)
-7. [《GitHub 入门与实践》阅读笔记（第4章）](https://segmentfault.com/a/1190000015724991)
+1. [Git 快速入门](https://segmentfault.com/a/1190000000725599)
+2. [Git 进阶 —— 时光穿梭机](https://segmentfault.com/a/1190000000730170)
+3. [Git 进阶 —— 远程仓库](https://segmentfault.com/a/1190000000738398)
+4. [在 Mac 上如何向 GitHub 提交代码？](https://segmentfault.com/a/1190000015724894)
+5. [《GitHub 入门与实践》阅读笔记（前3章）](https://segmentfault.com/a/1190000015724936)
+6. [《GitHub 入门与实践》阅读笔记（第4章）](https://segmentfault.com/a/1190000015724991)
+7. [解决 SourceTree 跳过 Husky git pre-commit 钩子校验问题](./vc/201101.md)
