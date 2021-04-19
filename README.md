@@ -10,7 +10,8 @@
 
 |缩写|英文|标题|数量|
 |---|---|--|--|
-|css|css|[CSS](#css)|20|
+|bad|build and deploy|[构建部署](#构建部署)|1|
+|css|css|[CSS](#css)|19|
 |db|database|[数据库](#数据库)|1|
 |doc|project document|[项目文档](#项目文档)|1|
 |fefw|front-end framework|[前端框架](#前端框架)|5|
@@ -22,6 +23,10 @@
 |tool|toolkit|[开发工具](#开发工具)|5|
 |ts|typescript|[TypeScript](#TypeScript)|0|
 |vc|version control|[版本控制](#版本控制)|7|
+
+### 构建部署
+
+1. [干了这杯可乐！Gulp 上手指南](https://segmentfault.com/a/1190000003866363)
 
 ### CSS
 
@@ -43,7 +48,6 @@
 16. [CSS学习笔记\(十六\) CSS最佳实践之可维护性篇](https://segmentfault.com/a/1190000003999308)
 17. [Sass 语法小结](https://segmentfault.com/a/1190000008295208)
 18. [玩转 Compass Sprite](https://segmentfault.com/a/1190000008309252)
-19. [干了这杯可乐！Gulp 上手指南](https://segmentfault.com/a/1190000003866363)
 20. [CSS 强化装备！Sass 安装与使用](https://segmentfault.com/a/1190000003912703)
 
 ### 数据库
