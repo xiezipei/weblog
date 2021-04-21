@@ -8,21 +8,21 @@
 
 ## Content
 
-|缩写|英文|标题|数量|
-|---|---|--|--|
-|bad|build and deploy|[构建部署](#构建部署)|1|
-|css|css|[CSS](#css)|19|
-|db|database|[数据库](#数据库)|1|
-|doc|project document|[项目文档](#项目文档)|1|
-|fefw|front-end framework|[前端框架](#前端框架)|5|
-|ios|ios development|[iOS 开发](#ios-开发)|1|
-|js|javascript|[JavaScript](#JavaScript)|5|
-|off|office|[办公软件](#办公软件)|1|
-|opt|performance optimization|[性能优化](#性能优化)|2|
-|spec|code specification|[代码规范](#代码规范)|1|
-|tool|toolkit|[开发工具](#开发工具)|5|
-|ts|typescript|[TypeScript](#TypeScript)|0|
-|vc|version control|[版本控制](#版本控制)|7|
+|缩写|英文|标题|标签|数量|
+|---|---|---|---|---|
+|bad|build and deploy|[构建部署](#构建部署)|-|1|
+|css|css|[CSS](#css)|-|19|
+|db|database|[数据库](#数据库)|-|1|
+|doc|project document|[项目文档](#项目文档)|-|1|
+|fefw|front-end framework|[前端框架](#前端框架)|-|5|
+|ios|ios development|[iOS 开发](#ios-开发)|-|1|
+|js|javascript|[JavaScript](#JavaScript)|-|5|
+|off|office|[办公软件](#办公软件)|-|1|
+|opt|performance optimization|[性能优化](#性能优化)|-|2|
+|spec|code specification|[代码规范](#代码规范)|-|1|
+|tool|toolkit|[开发工具](#开发工具)|-|5|
+|ts|typescript|[TypeScript](#TypeScript)|-|0|
+|vc|version control|[版本控制](#版本控制)|Git, GitHub|8|
 
 ### 构建部署
 
@@ -103,10 +103,16 @@
 
 ### 版本控制
 
+#### Git
+
 1. [Git 快速入门](https://segmentfault.com/a/1190000000725599)
 2. [Git 进阶 —— 时光穿梭机](https://segmentfault.com/a/1190000000730170)
 3. [Git 进阶 —— 远程仓库](https://segmentfault.com/a/1190000000738398)
-4. [在 Mac 上如何向 GitHub 提交代码？](https://segmentfault.com/a/1190000015724894)
-5. [《GitHub 入门与实践》阅读笔记（前3章）](https://segmentfault.com/a/1190000015724936)
-6. [《GitHub 入门与实践》阅读笔记（第4章）](https://segmentfault.com/a/1190000015724991)
-7. [解决 SourceTree 跳过 Husky git pre-commit 钩子校验问题](./vc/201101.md)
+
+#### GitHub
+
+1. [在 Mac 上如何向 GitHub 提交代码？](https://segmentfault.com/a/1190000015724894)
+2. [《GitHub 入门与实践》阅读笔记（第 1-3 章）](https://segmentfault.com/a/1190000015724936)
+3. [《GitHub 入门与实践》阅读笔记（第 4 章）](https://segmentfault.com/a/1190000015724991)
+4. [解决 SourceTree 跳过 Husky git pre-commit 钩子校验问题](./vc/201101.md)
+5. [实现 GitHub 主页展示一周代码使用时间统计](./vc/210401.md) New
