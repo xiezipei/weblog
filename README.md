@@ -98,6 +98,7 @@
 3. [配置 JDK 环境变量 & Gradle 安装](https://segmentfault.com/a/1190000008431686)
 4. [Intellij IDEA & Sass 使用记录汇总](https://segmentfault.com/a/1190000008552365)
 5. [Sublime Text 使用记录汇总](https://segmentfault.com/a/1190000008594620)
+6. [Win 前端开发环境快速设置](./tool/210402.md)
 
 ### TypeScript
 
@@ -116,3 +117,17 @@
 3. [《GitHub 入门与实践》阅读笔记（第 4 章）](https://segmentfault.com/a/1190000015724991)
 4. [解决 SourceTree 跳过 Husky git pre-commit 钩子校验问题](./vc/201101.md)
 5. [实现 GitHub 主页展示一周代码使用时间统计](./vc/210401.md) New
+
+## Todo
+
+输出
+
+- [ ] Win 前端开发环境设置
+- [ ] Angular 表单开发总结
+
+其它
+
+- [ ] README 封面
+- [ ] 规范 git commit message
+- [ ] 梳理各个节点的知识体系
+- [ ] 部分“不纯”笔记要处理
