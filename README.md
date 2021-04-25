@@ -102,6 +102,11 @@
 
 ### TypeScript
 
+1. [进击的 TS（1）- 基础知识](./ts/210403.md) Writing...
+2. 进击的 TS（2）- 进阶知识
+3. 进击的 TS（3）- 高级知识
+4. 进击的 TS（4）- 工程化
+
 ### 版本控制
 
 #### Git
@@ -116,14 +121,15 @@
 2. [《GitHub 入门与实践》阅读笔记（第 1-3 章）](https://segmentfault.com/a/1190000015724936)
 3. [《GitHub 入门与实践》阅读笔记（第 4 章）](https://segmentfault.com/a/1190000015724991)
 4. [解决 SourceTree 跳过 Husky git pre-commit 钩子校验问题](./vc/201101.md)
-5. [实现 GitHub 主页展示一周代码使用时间统计](./vc/210401.md) New
+5. [实现 GitHub 主页展示一周代码使用时间统计](./vc/210401.md) New!
 
 ## Todo
 
 输出
 
-- [ ] Win 前端开发环境设置
-- [ ] Angular 表单开发总结
+- [x] Win 前端开发环境设置
+- [ ] Angular 系列
+- [ ] TypeScript 系列
 
 其它
 
