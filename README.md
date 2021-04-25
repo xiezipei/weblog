@@ -21,7 +21,7 @@
 |opt|performance optimization|[性能优化](#性能优化)|-|2|
 |spec|code specification|[代码规范](#代码规范)|-|1|
 |tool|toolkit|[开发工具](#开发工具)|-|5|
-|ts|typescript|[TypeScript](#TypeScript)|-|0|
+|ts|typescript|[TypeScript](#TypeScript)|-|1|
 |vc|version control|[版本控制](#版本控制)|Git, GitHub|8|
 
 ### 构建部署
@@ -102,7 +102,7 @@
 
 ### TypeScript
 
-1. [进击的 TS（1）- 基础类型](./ts/210403.md) Building...
+1. [进击的 TypeScript（1）- 基础类型](./ts/210403.md) Dev...
 
 ### 版本控制
 
