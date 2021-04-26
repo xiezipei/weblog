@@ -102,7 +102,7 @@
 
 ### TypeScript
 
-1. [进击的 TypeScript（1）- 基础类型](./ts/210403.md) Dev...
+1. [进击的 TypeScript（1）- 基础类型](./ts/210403.md) New
 
 ### 版本控制
 
@@ -118,7 +118,7 @@
 2. [《GitHub 入门与实践》阅读笔记（第 1-3 章）](https://segmentfault.com/a/1190000015724936)
 3. [《GitHub 入门与实践》阅读笔记（第 4 章）](https://segmentfault.com/a/1190000015724991)
 4. [解决 SourceTree 跳过 Husky git pre-commit 钩子校验问题](./vc/201101.md)
-5. [实现 GitHub 主页展示一周代码使用时间统计](./vc/210401.md) New!
+5. [实现 GitHub 主页展示一周代码使用时间统计](./vc/210401.md) New
 
 ## Todo
 
