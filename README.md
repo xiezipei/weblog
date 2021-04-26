@@ -103,7 +103,7 @@
 ### TypeScript
 
 1. [进击的 TypeScript（1）- 基础类型](./ts/210403.md) New
-2. [进击的 TypeScript（2）- 枚举类型](./ts/210404.md) Dev
+2. [进击的 TypeScript（2）- 枚举类型](./ts/210404.md) New
 
 ### 版本控制
 
