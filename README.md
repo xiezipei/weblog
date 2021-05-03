@@ -20,7 +20,7 @@
 |off|office|[办公软件](#办公软件)|-|1|
 |opt|performance optimization|[性能优化](#性能优化)|-|2|
 |spec|code specification|[代码规范](#代码规范)|-|1|
-|tool|toolkit|[开发工具](#开发工具)|-|5|
+|tool|toolkit|[开发工具](#开发工具)|-|6|
 |ts|typescript|[TypeScript](#TypeScript)|-|4|
 |vc|version control|[版本控制](#版本控制)|Git, GitHub|8|
 
@@ -134,7 +134,7 @@ TypeScript 系列
 - [x] 接口
 - [x] 类
 - [x] 函数
-- [ ] 泛型
+- [x] 泛型
 - [x] 类型断言
 - [x] 类型守卫
 - [ ] 类型兼容性
