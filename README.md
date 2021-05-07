@@ -14,7 +14,7 @@
 |css|css|[CSS](#css)|-|19|
 |db|database|[数据库](#数据库)|-|1|
 |doc|project document|[项目文档](#项目文档)|-|1|
-|fefw|front-end framework|[前端框架](#前端框架)|Angular, React, Framework7|5|
+|fefw|front-end framework|[前端框架](#前端框架)|Angular, React, Framework7|6|
 |ios|ios development|[iOS 开发](#ios-开发)|-|1|
 |js|javascript|[JavaScript](#JavaScript)|-|5|
 |off|office|[办公软件](#办公软件)|-|1|
