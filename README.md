@@ -134,7 +134,7 @@
 
 ## Todo
 
-TypeScript 系列
+### TypeScript 系列
 
 - [x] 为什么要用 TypeScript？
 - [x] TS 开发环境设置
@@ -154,13 +154,13 @@ TypeScript 系列
 - [ ] 装饰器
 - [ ] Reflect Metadata
 
-其它
+### Angular 系列
+
+- [ ] 动态组件
+
+### 其它
 
 - [x] Win 前端开发环境设置
-- [ ] Angular 系列
-
-仓库
-
 - [ ] README 封面
 - [ ] 规范 git commit message
 - [ ] 梳理各个节点的知识体系
