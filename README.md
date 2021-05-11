@@ -10,19 +10,19 @@
 
 |缩写|英文|标题|标签|数量|
 |---|---|---|---|---|
-|bad|build and deploy|[构建部署](#构建部署)|-|1|
-|css|css|[CSS](#css)|-|19|
-|db|database|[数据库](#数据库)|-|1|
-|doc|project document|[项目文档](#项目文档)|-|1|
-|fefw|front-end framework|[前端框架](#前端框架)|Angular, React, Framework7|6|
-|ios|ios development|[iOS 开发](#ios-开发)|-|1|
-|js|javascript|[JavaScript](#JavaScript)|-|5|
-|off|office|[办公软件](#办公软件)|-|1|
-|opt|performance optimization|[性能优化](#性能优化)|-|2|
-|spec|code specification|[代码规范](#代码规范)|-|1|
-|tool|toolkit|[开发工具](#开发工具)|-|6|
-|ts|typescript|[TypeScript](#TypeScript)|-|4|
-|vc|version control|[版本控制](#版本控制)|Git, GitHub|8|
+|bad|Build and Deploy|[构建部署](#构建部署)|-|1|
+|css|CSS|[CSS](#css)|-|19|
+|db|Database|[数据库](#数据库)|-|1|
+|doc|Project Document|[项目文档](#项目文档)|-|1|
+|fefw|Front-End Framework|[前端框架](#前端框架)|Angular, React, Framework7|6|
+|ios|iOS development|[iOS 开发](#ios-开发)|-|1|
+|js|JavaScript|[JavaScript](#JavaScript)|-|5|
+|off|Office|[办公软件](#办公软件)|-|1|
+|opt|Performance Optimization|[性能优化](#性能优化)|-|2|
+|spec|Code Specification|[代码规范](#代码规范)|-|1|
+|tool|Toolkit|[开发工具](#开发工具)|-|6|
+|ts|TypeScript|[TypeScript](#TypeScript)|-|4|
+|vc|Version Control|[版本控制](#版本控制)|Git, GitHub|8|
 
 ### 构建部署
 
@@ -60,16 +60,16 @@
 
 ### 前端框架
 
-#### Angular
-
-1. [Angular 如何模拟从服务器获取数据](./fefw/201103.md)
-2. [Angular 动态组件](./fefw/210501.md)
-
 #### Framework7
 
 1. [Framework7 v4 Core 文档翻译（一）](https://juejin.cn/post/6844903891423723527)
 2. [Framework7 v4 Core 文档翻译（二）](https://juejin.cn/post/6844903891625050120)
 3. [Framework7 v4 Core 文档翻译（三）](https://juejin.cn/post/6844903893361491982)
+
+#### Angular
+
+1. [Angular 如何模拟从服务器获取数据](./fefw/201103.md)
+2. [Angular 动态组件](./fefw/210501.md) New
 
 #### React
 
@@ -153,6 +153,7 @@
 - [ ] 可辨识联合类型
 - [ ] 装饰器
 - [ ] Reflect Metadata
+- [ ] 工程化
 
 ### Angular 系列
 
