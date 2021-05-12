@@ -28,7 +28,7 @@
 
 1. [干了这杯可乐！Gulp 上手指南](https://segmentfault.com/a/1190000003866363)
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 ### CSS
 
@@ -52,19 +52,19 @@
 18. [玩转 Compass Sprite](https://segmentfault.com/a/1190000008309252)
 20. [CSS 强化装备！Sass 安装与使用](https://segmentfault.com/a/1190000003912703)
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 ### 数据库
 
 1. [缓存穿透、雪崩和击穿](./db/201107.md)
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 ### 项目文档
 
 1. [树形目录打印工具 tree-node-cli](./doc/201106.md)
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 ### 前端框架
 
@@ -74,7 +74,7 @@
 2. [Framework7 v4 Core 文档翻译（二）](https://juejin.cn/post/6844903891625050120)
 3. [Framework7 v4 Core 文档翻译（三）](https://juejin.cn/post/6844903893361491982)
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 #### Angular
 
@@ -82,19 +82,18 @@
 2. [Angular 如何模拟从服务器获取数据](./fefw/201103.md)
 3. [Angular 动态组件](./fefw/210501.md) *
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 #### React
 
 1. [React 学习概览](./fefw/210502.md)
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 ### iOS 开发
 
-1. [使用 Cordova 创建第一个 iOS App](https://juejin.cn/post/6844903893004976141)
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 ### JavaScript
 
@@ -104,26 +103,26 @@
 4. [JavaScript学习笔记\(二\) 对象与函数](https://segmentfault.com/a/1190000002406071)
 5. [先有蛋还是先有鸡？JavaScript 作用域与闭包探析](https://segmentfault.com/a/1190000008369570)
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 ### 办公软件
 
 1. [Excel 两种快速输入](./off/201105.md)
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 ### 性能优化
 
 1. [解决 Content Download 过载问题](./opt/201001.md)
 2. [拖拽卡顿问题与 setTimeout 探索](./opt/210201.md)
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 ### 代码规范
 
 1. [解决 ESLint 两种错误提示](./spec/201102.md)
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 ### 开发工具
 
@@ -134,7 +133,7 @@
 5. [Sublime Text 使用记录汇总](https://segmentfault.com/a/1190000008594620)
 6. [Win 前端开发环境快速设置](./tool/210402.md)
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 ### TypeScript
 
@@ -143,7 +142,7 @@
 3. [进击的 TypeScript（3）- 接口、类、函数](./ts/210405.md) New
 3. [进击的 TypeScript（4）- 泛型](./ts/210406.md) New
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 ### 版本控制
 
@@ -153,7 +152,7 @@
 2. [Git 进阶 —— 时光穿梭机](https://segmentfault.com/a/1190000000730170)
 3. [Git 进阶 —— 远程仓库](https://segmentfault.com/a/1190000000738398)
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 #### GitHub
 
@@ -163,7 +162,7 @@
 4. [解决 SourceTree 跳过 Husky git pre-commit 钩子校验问题](./vc/201101.md)
 5. [实现 GitHub 主页展示一周代码使用时间统计](./vc/210401.md) New
 
-[⬆回到目录](#content)
+[⬆ 回到目录](#content)
 
 ## Todo
 
@@ -203,3 +202,5 @@
 - [ ] 规范 git commit message
 - [ ] 梳理各个节点的知识体系
 - [ ] 部分“不纯”笔记要处理
+
+[⬆ 回到目录](#content)
