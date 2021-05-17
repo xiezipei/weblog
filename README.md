@@ -1,8 +1,10 @@
 # BLOG
 
+[toc]
+
 ## Introduction
 
-1. 这是什么：我的网络日志，内容主要为技术&生活；
+1. 这是什么：我的网络日志，内容主要为前端技术&生活；
 2. 访问地址：[https://blog.xiezipei.com/](https://blog.xiezipei.com/)
 3. 变更日志：[CHANGELOG](./CHANGELOG.md)
 
@@ -86,7 +88,7 @@
 
 #### React
 
-1. [React 学习概览](./fefw/210502.md)
+1. [React 学习概览](./fefw/210502.md) *
 
 [⬆ 回到目录](#content)
 
@@ -166,7 +168,7 @@
 
 ## Todo
 
-### TypeScript 系列
+TypeScript 系列
 
 - [x] 为什么要用 TypeScript？
 - [x] TS 开发环境设置
@@ -187,15 +189,15 @@
 - [ ] Reflect Metadata
 - [ ] 工程化
 
-### Angular 系列
+Angular 系列
 
 - [ ] 动态组件
 
-### React 系列
+React 系列
 
 - [ ] React 学习概览
 
-### 其它
+其它
 
 - [x] Win 前端开发环境设置
 - [ ] README 封面
