@@ -4,7 +4,7 @@
 
 ## Introduction
 
-1. 这是什么：我的网络日志，内容主要为前端技术&生活；
+1. 这是什么：我的网络日志，内容主要为前端技术&生活
 2. 访问地址：[https://blog.xiezipei.com/](https://blog.xiezipei.com/)
 3. 变更日志：[CHANGELOG](./CHANGELOG.md)
 
