@@ -195,7 +195,12 @@ Angular 系列
 
 React 系列
 
-- [ ] React 学习概览
+- [x] React v16 基础
+- [ ] Redux
+- [ ] React Router
+- [ ] React Hooks
+- [ ] React 服务端渲染框架 Next.js
+- [ ] React Hooks + Egg.js 博客实战
 
 其它
 
