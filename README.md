@@ -90,6 +90,7 @@
 
 1. [Virtual DOM](./fefw/201104.md) *
 2. [React 学习 - React v16 基础](./fefw/210502.md) New
+2. [React 学习 - Redux](./fefw/210504.md) *
 
 [⬆ 回到目录](#content)
 
@@ -164,51 +165,5 @@
 3. [《GitHub 入门与实践》阅读笔记（第 4 章）](https://segmentfault.com/a/1190000015724991)
 4. [解决 SourceTree 跳过 Husky git pre-commit 钩子校验问题](./vc/201101.md)
 5. [实现 GitHub 主页展示一周代码使用时间统计](./vc/210401.md) New
-
-[⬆ 回到目录](#content)
-
-## Todo
-
-TypeScript 系列
-
-- [x] 为什么要用 TypeScript？
-- [x] TS 开发环境设置
-- [x] 基础类型
-- [x] 枚举类型
-- [x] 接口
-- [x] 类
-- [x] 函数
-- [x] 泛型
-- [x] 类型断言
-- [x] 类型守卫
-- [ ] 类型兼容性
-- [ ] 交叉类型
-- [ ] 联合类型
-- [ ] 类型别名
-- [ ] 可辨识联合类型
-- [ ] 装饰器
-- [ ] Reflect Metadata
-- [ ] 工程化
-
-Angular 系列
-
-- [ ] 动态组件
-
-React 系列
-
-- [x] React v16 基础
-- [ ] Redux
-- [ ] React Router
-- [ ] React Hooks
-- [ ] React 服务端渲染框架 Next.js
-- [ ] React Hooks + Egg.js 博客实战
-
-其它
-
-- [x] Win 前端开发环境设置
-- [ ] README 封面
-- [ ] 规范 git commit message
-- [ ] 梳理各个节点的知识体系
-- [ ] 部分“不纯”笔记要处理
 
 [⬆ 回到目录](#content)
