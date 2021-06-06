@@ -93,7 +93,8 @@
 3. [React 学习 - Redux](./fefw/210504.md) New
 4. [React 学习 - React Router](./fefw/210505.md) New
 4. [React 学习 - React Hooks](./fefw/210506.md) New
-5. [React 学习 - Next.js](./fefw/210507.md) *
+5. [React 学习 - Next.js](./fefw/210507.md) New
+6. [React 学习 - React 博客实战](./fefw/210508.md)
 
 [⬆ 回到目录](#content)
 
