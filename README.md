@@ -4,13 +4,9 @@
 
 ## 前端开发
 
-### React
+### 性能优化
 
-- [Virtual DOM](./2020/201104.md)
-
-### Angular
-
-- [Angular 如何模拟从服务器获取数据](./2020/201103.md)
+- [拖拽卡顿问题与 setTimeout 探索](./2021/210201.md) *
 
 ### 代码优化
 
@@ -22,20 +18,13 @@
 
 ### JavaScript
 
-#### JS 学习笔记
-
 1. [JavaScript学习笔记 1 - 根据类名获取元素](https://segmentfault.com/a/1190000002401164)
 2. [JavaScript学习笔记 2 - 对象与函数](https://segmentfault.com/a/1190000002406071)
 3. [JavaScript 框架分类](https://segmentfault.com/a/1190000000766917)
 4. [先有蛋还是先有鸡？JavaScript 作用域与闭包探析](https://segmentfault.com/a/1190000008369570)
-
-#### jQuery
-
-1. [jQuery中 wrap\(\) wrapAll\(\) 与 wrapInner\(\)的区别](https://segmentfault.com/a/1190000000780313)
+5. [jQuery中 wrap\(\) wrapAll\(\) 与 wrapInner\(\)的区别](https://segmentfault.com/a/1190000000780313)
 
 ### CSS
-
-#### CSS 学习笔记
 
 1. [CSS 学习笔记 1 - HTML标记与文档结构](https://segmentfault.com/a/1190000002425174)
 2. [CSS 学习笔记 2 - 字体和文本](https://segmentfault.com/a/1190000002424847)
@@ -53,16 +42,34 @@
 14. [CSS 学习笔记 14 - 我们前端是怎么跟设计师沟通的](https://segmentfault.com/a/1190000002483654)
 15. [CSS 学习笔记 15 - 使用map标签实现单图多热点](https://segmentfault.com/a/1190000002489109)
 16. [CSS 学习笔记 16 -  CSS最佳实践之可维护性篇](https://segmentfault.com/a/1190000003999308)
-
-#### Sass & Compass
-
-1. [CSS 强化装备！Sass 安装与使用](https://segmentfault.com/a/1190000003912703)
-2. [Sass 语法小结](https://segmentfault.com/a/1190000008295208)
-3. [玩转 Compass Sprite](https://segmentfault.com/a/1190000008309252)
-
-### HTML
+17. [CSS 强化装备！Sass 安装与使用](https://segmentfault.com/a/1190000003912703)
+18. [Sass 语法小结](https://segmentfault.com/a/1190000008295208)
+19. [玩转 Compass Sprite](https://segmentfault.com/a/1190000008309252)
 
 ### 前端框架
+
+#### TypeScript
+
+- [进击的 TypeScript（1）- 基础类型](./2021/210403.md)
+- [进击的 TypeScript（2）- 枚举类型](./2021/210404.md)
+- [进击的 TypeScript（3）- 接口、类、函数](./2021/210405.md)
+- [进击的 TypeScript（4）- 泛型](./2021/210406.md)
+
+#### React
+
+- [Virtual DOM](./2020/201104.md) *
+- [React 学习 - React v16 基础](./2021/210502.md)
+- [React 学习 - Redux](./2021/210601.md)
+- [React 学习 - React Router](./2021/210602)
+- [React 学习 - React Hooks](./2021/210603)
+- [React 学习 - Next.js](./2021/210604)
+- [React 博客实战](./2021/210605) *
+
+#### Angular
+
+- [Angular 如何模拟从服务器获取数据](./2020/201103.md)
+- [Angular 动态组件](./2021/210501.md)
+- [Angular DevTools 使用介绍](./2021/210503.md)
 
 #### Framework7
 
@@ -86,6 +93,7 @@
 5. [《GitHub 入门与实践》阅读笔记（第 1 - 3 章）](https://segmentfault.com/a/1190000015724936)
 6. [《GitHub 入门与实践》阅读笔记（第 4 章）](https://segmentfault.com/a/1190000015724991)
 7. [解决 SourceTree 跳过 Husky git pre-commit 钩子校验问题](./2020/201101.md)
+8. [实现 GitHub 主页展示一周代码使用时间统计](./2021/210401.md)
 
 ### IDE & 编辑器
 
@@ -96,6 +104,7 @@
 5. [Intellij IDEA & Sass 使用记录汇总](https://segmentfault.com/a/1190000008552365)
 6. [Excel 两种快速输入](./2020/201105.md)
 7. [树形目录打印工具 tree-node-cli](./2020/201106.md)
+8. [Win 前端开发环境快速设置](./2021/210402.md)
 
 ## 数据库
 
