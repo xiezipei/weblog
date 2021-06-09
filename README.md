@@ -4,6 +4,22 @@
 
 ## 前端开发
 
+### React
+
+- [Virtual DOM](./2020/201104.md)
+
+### Angular
+
+- [Angular 如何模拟从服务器获取数据](./2020/201103.md)
+
+### 代码优化
+
+1. [解决 ESLint 两种错误提示](./2020/201102.md)
+
+### 开发调试
+
+1. [解决 Content Download 过载问题](./2020/201001.md)
+
 ### JavaScript
 
 #### JS 学习笔记
@@ -13,7 +29,7 @@
 3. [JavaScript 框架分类](https://segmentfault.com/a/1190000000766917)
 4. [先有蛋还是先有鸡？JavaScript 作用域与闭包探析](https://segmentfault.com/a/1190000008369570)
 
-#### jQuery 学习笔记
+#### jQuery
 
 1. [jQuery中 wrap\(\) wrapAll\(\) 与 wrapInner\(\)的区别](https://segmentfault.com/a/1190000000780313)
 
@@ -69,6 +85,7 @@
 4. [在 Mac 上如何向 GitHub 提交代码？](https://segmentfault.com/a/1190000015724894)
 5. [《GitHub 入门与实践》阅读笔记（第 1 - 3 章）](https://segmentfault.com/a/1190000015724936)
 6. [《GitHub 入门与实践》阅读笔记（第 4 章）](https://segmentfault.com/a/1190000015724991)
+7. [解决 SourceTree 跳过 Husky git pre-commit 钩子校验问题](./2020/201101.md)
 
 ### IDE & 编辑器
 
@@ -77,3 +94,11 @@
 3. [解决安装 XAMPP 后 Apache 无法启动问题](https://segmentfault.com/a/1190000001803636)
 4. [Eclipse 配置 JDK 环境变量 & Gradle 安装](https://segmentfault.com/a/1190000008431686)
 5. [Intellij IDEA & Sass 使用记录汇总](https://segmentfault.com/a/1190000008552365)
+6. [Excel 两种快速输入](./2020/201105.md)
+7. [树形目录打印工具 tree-node-cli](./2020/201106.md)
+
+## 数据库
+
+### Redis
+
+1. [缓存穿透、雪崩和击穿](./2020/201107.md)
