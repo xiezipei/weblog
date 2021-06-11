@@ -6,7 +6,7 @@
 
 ### 性能优化
 
-- [拖拽卡顿问题与 setTimeout 探索](./2021/210201.md) *
+1. [拖拽卡顿问题与 setTimeout 探索](./2021/210201.md) *
 
 ### 代码优化
 
@@ -50,26 +50,26 @@
 
 #### TypeScript
 
-- [进击的 TypeScript（1）- 基础类型](./2021/210403.md)
-- [进击的 TypeScript（2）- 枚举类型](./2021/210404.md)
-- [进击的 TypeScript（3）- 接口、类、函数](./2021/210405.md)
-- [进击的 TypeScript（4）- 泛型](./2021/210406.md)
+1. [进击的 TypeScript（1）- 基础类型](./2021/210403.md)
+2. [进击的 TypeScript（2）- 枚举类型](./2021/210404.md)
+3. [进击的 TypeScript（3）- 接口、类、函数](./2021/210405.md)
+4. [进击的 TypeScript（4）- 泛型](./2021/210406.md)
 
 #### React
 
-- [Virtual DOM](./2020/201104.md) *
-- [React 学习 - React v16 基础](./2021/210502.md)
-- [React 学习 - Redux](./2021/210601.md)
-- [React 学习 - React Router](./2021/210602)
-- [React 学习 - React Hooks](./2021/210603)
-- [React 学习 - Next.js](./2021/210604)
-- [React 博客实战](./2021/210605) *
+1. [Virtual DOM](./2020/201104.md) *
+2. [React 学习 - React v16 基础](./2021/210502.md)
+3. [React 学习 - Redux](./2021/210601.md)
+4. [React 学习 - React Router](./2021/210602)
+5. [React 学习 - React Hooks](./2021/210603)
+6. [React 学习 - Next.js](./2021/210604)
+7. [React 博客实战](./2021/210605) *
 
 #### Angular
 
-- [Angular 如何模拟从服务器获取数据](./2020/201103.md)
-- [Angular 动态组件](./2021/210501.md)
-- [Angular DevTools 使用介绍](./2021/210503.md)
+1. [Angular 如何模拟从服务器获取数据](./2020/201103.md)
+2. [Angular 动态组件](./2021/210501.md)
+3. [Angular DevTools 使用介绍](./2021/210503.md)
 
 #### Framework7
 
