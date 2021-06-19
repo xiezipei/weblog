@@ -4,6 +4,37 @@
 
 ## 前端开发
 
+### 前端框架
+
+#### TypeScript
+
+1. [进击的 TypeScript（1）- 基础类型](./2021/210403.md)
+2. [进击的 TypeScript（2）- 枚举类型](./2021/210404.md)
+3. [进击的 TypeScript（3）- 接口、类、函数](./2021/210405.md)
+4. [进击的 TypeScript（4）- 泛型](./2021/210406.md)
+
+#### React
+
+1. [Virtual DOM](./2020/201104.md) *
+2. [React 学习 - React v16 基础](./2021/210502.md)
+3. [React 学习 - Redux](./2021/210601.md)
+4. [React 学习 - React Router](./2021/210602.md)
+5. [React 学习 - React Hooks](./2021/210603.md)
+6. [React 学习 - Next.js](./2021/210604.md)
+7. [React 博客实战](./2021/210605.md) *
+
+#### Angular
+
+1. [Angular 如何模拟从服务器获取数据](./2020/201103.md)
+2. [Angular 动态组件](./2021/210501.md)
+3. [Angular DevTools 使用介绍](./2021/210503.md)
+
+#### Framework7
+
+1. [Framework7 v4 Core 文档翻译（一）](https://juejin.cn/post/6844903891423723527)
+2. [Framework7 v4 Core 文档翻译（二）](https://juejin.cn/post/6844903891625050120)
+3. [Framework7 v4 Core 文档翻译（三）](https://juejin.cn/post/6844903893361491982)
+
 ### 性能优化
 
 1. [拖拽卡顿问题与 setTimeout 探索](./2021/210201.md) *
@@ -46,36 +77,6 @@
 18. [Sass 语法小结](https://segmentfault.com/a/1190000008295208)
 19. [玩转 Compass Sprite](https://segmentfault.com/a/1190000008309252)
 
-### 前端框架
-
-#### TypeScript
-
-1. [进击的 TypeScript（1）- 基础类型](./2021/210403.md)
-2. [进击的 TypeScript（2）- 枚举类型](./2021/210404.md)
-3. [进击的 TypeScript（3）- 接口、类、函数](./2021/210405.md)
-4. [进击的 TypeScript（4）- 泛型](./2021/210406.md)
-
-#### React
-
-1. [Virtual DOM](./2020/201104.md) *
-2. [React 学习 - React v16 基础](./2021/210502.md)
-3. [React 学习 - Redux](./2021/210601.md)
-4. [React 学习 - React Router](./2021/210602.md)
-5. [React 学习 - React Hooks](./2021/210603.md)
-6. [React 学习 - Next.js](./2021/210604.md)
-7. [React 博客实战](./2021/210605.md) *
-
-#### Angular
-
-1. [Angular 如何模拟从服务器获取数据](./2020/201103.md)
-2. [Angular 动态组件](./2021/210501.md)
-3. [Angular DevTools 使用介绍](./2021/210503.md)
-
-#### Framework7
-
-1. [Framework7 v4 Core 文档翻译（一）](https://juejin.cn/post/6844903891423723527)
-2. [Framework7 v4 Core 文档翻译（二）](https://juejin.cn/post/6844903891625050120)
-3. [Framework7 v4 Core 文档翻译（三）](https://juejin.cn/post/6844903893361491982)
 
 ### 前端工程化
 
