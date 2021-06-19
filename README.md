@@ -2,7 +2,41 @@
 
 [toc]
 
+<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/SvWBwzmx6PWsjRjxsnMF6z@2Ux7TurymMpbixTybEJZ"></iframe>
+
 ## 前端开发
+
+### JavaScript
+
+1. [JavaScript学习笔记 1 - 根据类名获取元素](https://segmentfault.com/a/1190000002401164)
+2. [JavaScript学习笔记 2 - 对象与函数](https://segmentfault.com/a/1190000002406071)
+3. [JavaScript 框架分类](https://segmentfault.com/a/1190000000766917)
+4. [先有蛋还是先有鸡？JavaScript 作用域与闭包探析](https://segmentfault.com/a/1190000008369570)
+5. [jQuery中 wrap\(\) wrapAll\(\) 与 wrapInner\(\)的区别](https://segmentfault.com/a/1190000000780313)
+
+### CSS
+
+1. [CSS 学习笔记 1 - HTML标记与文档结构](https://segmentfault.com/a/1190000002425174)
+2. [CSS 学习笔记 2 - 字体和文本](https://segmentfault.com/a/1190000002424847)
+3. [CSS 学习笔记 3 - CSS选择器](https://segmentfault.com/a/1190000002426514)
+4. [CSS 学习笔记 4 - CSS优先级](https://segmentfault.com/a/1190000002427029)
+5. [CSS 学习笔记 5 -  规则声明](https://segmentfault.com/a/1190000002427851)
+6. [CSS 学习笔记 6 - 元素定位](https://segmentfault.com/a/1190000002430611)
+7. [CSS 学习笔记 7 - 背景](https://segmentfault.com/a/1190000002431644)
+8. [CSS 学习笔记 8 - 页面布局之三栏\-固定宽度布局](https://segmentfault.com/a/1190000002438802)
+9. [CSS 学习笔记 9 - 界面组件之导航菜单](https://segmentfault.com/a/1190000002446160)
+10. [CSS 学习笔记 10 - 界面组件之表单](https://segmentfault.com/a/1190000002453474)
+11. [CSS 学习笔记 11 - CSS3 Transition](https://segmentfault.com/a/1190000002454792)
+12. [CSS 学习笔记 12 - CSS命名规范](https://segmentfault.com/a/1190000002469247)
+13. [CSS 学习笔记 13 - WAMP5 & SinaAppEngine](https://segmentfault.com/a/1190000002471857)
+14. [CSS 学习笔记 14 - 我们前端是怎么跟设计师沟通的](https://segmentfault.com/a/1190000002483654)
+15. [CSS 学习笔记 15 - 使用map标签实现单图多热点](https://segmentfault.com/a/1190000002489109)
+16. [CSS 学习笔记 16 -  CSS最佳实践之可维护性篇](https://segmentfault.com/a/1190000003999308)
+17. [CSS 强化装备！Sass 安装与使用](https://segmentfault.com/a/1190000003912703)
+18. [Sass 语法小结](https://segmentfault.com/a/1190000008295208)
+19. [玩转 Compass Sprite](https://segmentfault.com/a/1190000008309252)
+
+### HTML
 
 ### 前端框架
 
@@ -39,44 +73,13 @@
 
 1. [拖拽卡顿问题与 setTimeout 探索](./2021/210201.md) *
 
-### 代码优化
+### 代码质量
 
 1. [解决 ESLint 两种错误提示](./2020/201102.md)
 
 ### 开发调试
 
 1. [解决 Content Download 过载问题](./2020/201001.md)
-
-### JavaScript
-
-1. [JavaScript学习笔记 1 - 根据类名获取元素](https://segmentfault.com/a/1190000002401164)
-2. [JavaScript学习笔记 2 - 对象与函数](https://segmentfault.com/a/1190000002406071)
-3. [JavaScript 框架分类](https://segmentfault.com/a/1190000000766917)
-4. [先有蛋还是先有鸡？JavaScript 作用域与闭包探析](https://segmentfault.com/a/1190000008369570)
-5. [jQuery中 wrap\(\) wrapAll\(\) 与 wrapInner\(\)的区别](https://segmentfault.com/a/1190000000780313)
-
-### CSS
-
-1. [CSS 学习笔记 1 - HTML标记与文档结构](https://segmentfault.com/a/1190000002425174)
-2. [CSS 学习笔记 2 - 字体和文本](https://segmentfault.com/a/1190000002424847)
-3. [CSS 学习笔记 3 - CSS选择器](https://segmentfault.com/a/1190000002426514)
-4. [CSS 学习笔记 4 - CSS优先级](https://segmentfault.com/a/1190000002427029)
-5. [CSS 学习笔记 5 -  规则声明](https://segmentfault.com/a/1190000002427851)
-6. [CSS 学习笔记 6 - 元素定位](https://segmentfault.com/a/1190000002430611)
-7. [CSS 学习笔记 7 - 背景](https://segmentfault.com/a/1190000002431644)
-8. [CSS 学习笔记 8 - 页面布局之三栏\-固定宽度布局](https://segmentfault.com/a/1190000002438802)
-9. [CSS 学习笔记 9 - 界面组件之导航菜单](https://segmentfault.com/a/1190000002446160)
-10. [CSS 学习笔记 10 - 界面组件之表单](https://segmentfault.com/a/1190000002453474)
-11. [CSS 学习笔记 11 - CSS3 Transition](https://segmentfault.com/a/1190000002454792)
-12. [CSS 学习笔记 12 - CSS命名规范](https://segmentfault.com/a/1190000002469247)
-13. [CSS 学习笔记 13 - WAMP5 & SinaAppEngine](https://segmentfault.com/a/1190000002471857)
-14. [CSS 学习笔记 14 - 我们前端是怎么跟设计师沟通的](https://segmentfault.com/a/1190000002483654)
-15. [CSS 学习笔记 15 - 使用map标签实现单图多热点](https://segmentfault.com/a/1190000002489109)
-16. [CSS 学习笔记 16 -  CSS最佳实践之可维护性篇](https://segmentfault.com/a/1190000003999308)
-17. [CSS 强化装备！Sass 安装与使用](https://segmentfault.com/a/1190000003912703)
-18. [Sass 语法小结](https://segmentfault.com/a/1190000008295208)
-19. [玩转 Compass Sprite](https://segmentfault.com/a/1190000008309252)
-
 
 ### 前端工程化
 
@@ -85,7 +88,9 @@
 
 ## 开发工具
 
-### Git & GitHub
+### 版本管理
+
+#### Git & GitHub
 
 1. [Git 快速入门](https://segmentfault.com/a/1190000000725599)
 2. [Git 进阶 —— 时光穿梭机](https://segmentfault.com/a/1190000000730170)
@@ -98,16 +103,30 @@
 
 ### IDE & 编辑器
 
+#### VSCode
+
+#### Sublime Text
+
 1. [使用 Sublime Text 2 编辑 Markdown](https://segmentfault.com/a/1190000000723945)
 2. [Sublime Text 使用记录汇总](https://segmentfault.com/a/1190000008594620)
-3. [解决安装 XAMPP 后 Apache 无法启动问题](https://segmentfault.com/a/1190000001803636)
-4. [Eclipse 配置 JDK 环境变量 & Gradle 安装](https://segmentfault.com/a/1190000008431686)
-5. [Intellij IDEA & Sass 使用记录汇总](https://segmentfault.com/a/1190000008552365)
-6. [Excel 两种快速输入](./2020/201105.md)
-7. [树形目录打印工具 tree-node-cli](./2020/201106.md)
-8. [Win 前端开发环境快速设置](./2021/210402.md)
+#### Eclipse
+
+1. [Eclipse 配置 JDK 环境变量 & Gradle 安装](https://segmentfault.com/a/1190000008431686)
+
+#### Intellij IDEA
+
+1. [Intellij IDEA & Sass 使用记录汇总](https://segmentfault.com/a/1190000008552365) 
+
+#### 其它
+
+1. [树形目录打印工具 tree-node-cli](./2020/201106.md)
+2. [解决安装 XAMPP 后 Apache 无法启动问题](https://segmentfault.com/a/1190000001803636)
+3. [Excel 两种快速输入](./2020/201105.md)
+5.  [Win 前端开发环境快速设置](./2021/210402.md)
 
 ## 数据库
+
+#### MySQL
 
 ### Redis
 
