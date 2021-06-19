@@ -2,7 +2,7 @@
 
 [toc]
 
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/SvWBwzmx6PWsjRjxsnMF6z@2Ux7TurymMpbixTybEJZ"></iframe>
+![tks_2021-06-19](https://tva1.sinaimg.cn/large/008i3skNgy1grnmjdkon2j30l90qq74t.jpg)
 
 ## 前端开发
 
@@ -126,7 +126,7 @@
 
 ## 数据库
 
-#### MySQL
+### MySQL
 
 ### Redis
 
