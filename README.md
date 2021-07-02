@@ -2,9 +2,9 @@
 
 [toc]
 
-![Blog ProcessOn Mind](http://assets.processon.com/chart_image/60dc83f7e401fd7e34267066.png)
+## 思维导图
 
-传送门：[Blog ProcessOn Mind](https://www.processon.com/view/link/60de8615637689510d698120)
+1. [Blog ProcessOn Mind](https://www.processon.com/view/link/60de8615637689510d698120)
 
 ## TypeScript
 
