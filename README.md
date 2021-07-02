@@ -4,15 +4,7 @@
 
 ![Blog ProcessOn Mind](http://assets.processon.com/chart_image/60dc83f7e401fd7e34267066.png)
 
-## React
-
-- [Virtual DOM](./2020/201104.md) *
-- [React 学习 - React v16 基础](./2021/210502.md)
-- [React 学习 - Redux](./2021/210601.md)
-- [React 学习 - React Router](./2021/210602.md)
-- [React 学习 - React Hooks](./2021/210603.md)
-- [React 学习 - Next.js](./2021/210604.md)
-- [React 博客实战](./2021/210605.md) *
+传送门：[Blog ProcessOn Mind](https://www.processon.com/view/link/60de8615637689510d698120)
 
 ## TypeScript
 
@@ -26,6 +18,16 @@
 - [Angular 如何模拟从服务器获取数据](./2020/201103.md)
 - [Angular 动态组件](./2021/210501.md)
 - [Angular DevTools 使用介绍](./2021/210503.md)
+
+## React
+
+- [Virtual DOM](./2020/201104.md) *
+- [React 学习 - React v16 基础](./2021/210502.md)
+- [React 学习 - Redux](./2021/210601.md)
+- [React 学习 - React Router](./2021/210602.md)
+- [React 学习 - React Hooks](./2021/210603.md)
+- [React 学习 - Next.js](./2021/210604.md)
+- [React 博客实战](./2021/210605.md) *
 
 ## Framework7
 
