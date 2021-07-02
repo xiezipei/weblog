@@ -53,7 +53,11 @@
 
 - [Excel 两种快速输入](./2020/201105.md)
 
-## 脚手架
+## npm
+
+- [树形目录打印工具 tree-node-cli](./2020/201106.md)
+
+## Gulp
 
 - [干了这杯可乐！Gulp 上手指南](https://segmentfault.com/a/1190000003866363)
 
@@ -63,7 +67,7 @@
 - [Sass 语法小结](https://segmentfault.com/a/1190000008295208)
 - [玩转 Compass Sprite](https://segmentfault.com/a/1190000008309252)
 
-## CSS
+## CSS 学习笔记（完）
 
 - [CSS 学习笔记 1 - HTML标记与文档结构](https://segmentfault.com/a/1190000002425174)
 - [CSS 学习笔记 2 - 字体和文本](https://segmentfault.com/a/1190000002424847)
@@ -121,7 +125,6 @@
 
 - [jQuery中 wrap\(\) wrapAll\(\) 与 wrapInner\(\)的区别](https://segmentfault.com/a/1190000000780313)
 
-## Others
+## XAMPP
 
-- [树形目录打印工具 tree-node-cli](./2020/201106.md)
 - [解决安装 XAMPP 后 Apache 无法启动问题](https://segmentfault.com/a/1190000001803636)
