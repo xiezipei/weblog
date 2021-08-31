@@ -4,7 +4,7 @@
 
 ## Overview
 
-<!-- todo -->
+![Weblog ProcessOn Mind](http://assets.processon.com/chart_image/612d9f1fe401fd1fb69a5bf2.png)
 
 ## Front-end Foundation
 
@@ -111,7 +111,7 @@ CSS 学习笔记（完）：
 
 前端工程
 
-### Performance optimization
+### Performance Optimization
 
 性能优化
 
