@@ -4,6 +4,8 @@
 
 ## Overview
 
+![weblog_2021-08-31](https://tva1.sinaimg.cn/large/008i3skNly1guxhywf145j60zo0ozwh202.jpg)
+
 [Weblog ProcessOn Mind](https://www.processon.com/view/link/612da15e1efad40d93895ea6)
 
 ## Front-end Foundation
@@ -42,7 +44,7 @@ CSS 学习笔记（完）：
 
 ## Front-end Library
 
-前端工具库
+前端库
 
 ### npm
 
@@ -109,7 +111,7 @@ CSS 学习笔记（完）：
 
 ## Front-end Engineering
 
-前端工程
+前端工程化
 
 ### Performance Optimization
 
