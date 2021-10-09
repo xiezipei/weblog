@@ -202,6 +202,7 @@ Taro 3 文档学习：
 - [Git 进阶 —— 远程仓库](https://segmentfault.com/a/1190000000738398)
 - [Git 进阶 —— 时光穿梭机](https://segmentfault.com/a/1190000000730170)
 - [Git 快速入门](https://segmentfault.com/a/1190000000725599)
+- [本地 Git 仓库设置远程仓库](./2021/211003.md)
 
 ### GitHub
 
