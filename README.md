@@ -8,6 +8,10 @@
 
 [Weblog ProcessOn Mind](https://www.processon.com/view/link/612da15e1efad40d93895ea6)
 
+## Reading Notes
+
+阅读笔记
+
 ## Front-end Foundation
 
 前端基础
