@@ -2,15 +2,29 @@
 
 [toc]
 
+我的网络日志，内容主要为个人笔记、前端学习。
+
 ## Overview
 
 ![weblog_2021-08-31](https://tva1.sinaimg.cn/large/008i3skNly1guxhywf145j60zo0ozwh202.jpg)
 
 [Weblog ProcessOn Mind](https://www.processon.com/view/link/612da15e1efad40d93895ea6)
 
-## Reading Notes
+## Personal notes
+
+个人笔记
+
+### Reading Notes
 
 阅读笔记
+
+### Book Notes
+
+读书笔记
+
+### Self Development
+
+自我发展
 
 ## Front-end Foundation
 
