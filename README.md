@@ -16,7 +16,7 @@
 
 [Weblog ProcessOn Mind](https://www.processon.com/view/link/612da15e1efad40d93895ea6)
 
-![weblog_2021-08-31](https://tva1.sinaimg.cn/large/008i3skNly1guxhywf145j60zo0ozwh202.jpg)
+![mindmap_2021-08-31](https://tva1.sinaimg.cn/large/008i3skNly1guxhywf145j60zo0ozwh202.jpg)
 
 ### TodoList
 
