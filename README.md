@@ -2,15 +2,15 @@
 
 [toc]
 
-## Overview
+## 0. Overview
 
-### Intro
+### 0.1 Intro
 
 简介
 
 我的网络日志，内容主要为个人笔记、前端学习。
 
-### MindMap
+### 0.2 MindMap
 
 思维导图
 
@@ -18,40 +18,34 @@
 
 ![mindmap_2021-08-31](https://tva1.sinaimg.cn/large/008i3skNly1guxhywf145j60zo0ozwh202.jpg)
 
-### TodoList
-
-待办列表
-
-[Weblog TodoList](https://github.com/xiezipei/weblog/projects/2)
-
-## Personal notes
+## 1. Personal notes
 
 个人笔记
 
-### Reading Notes
+### 1.1 Reading Notes
 
 阅读笔记
 
-### Book Notes
+### 1.2 Book Notes
 
 读书笔记
 
-### Self Development
+### 1.3 Self Development
 
 自我发展
 
-## Front-end Foundation
+## 2. Front-end Foundation
 
 前端基础
 
-### JavaScript
+### 2.1 JavaScript
 
 - [先有蛋还是先有鸡？JavaScript 作用域与闭包探析](https://segmentfault.com/a/1190000008369570)
 - [JavaScript 框架分类](https://segmentfault.com/a/1190000000766917)
 - [JavaScript学习笔记 1 - 根据类名获取元素](https://segmentfault.com/a/1190000002401164)
 - [JavaScript学习笔记 2 - 对象与函数](https://segmentfault.com/a/1190000002406071)
 
-### CSS
+### 2.2 CSS
 
 CSS 学习笔记（完）：
 
@@ -72,44 +66,44 @@ CSS 学习笔记（完）：
 - [CSS 学习笔记 15 - 使用map标签实现单图多热点](https://segmentfault.com/a/1190000002489109)
 - [CSS 学习笔记 16 -  CSS最佳实践之可维护性篇](https://segmentfault.com/a/1190000003999308)
 
-### HTML
+### 2.3 HTML
 
-## Front-end Library
+## 3. Front-end Library
 
 前端库
 
-### npm
+### 3.1 npm
 
 - [树形目录打印工具 tree-node-cli](./2020/201106.md)
 
-### TypeScript
+### 3.2 TypeScript
 
 - [进击的 TypeScript（一）- 基础类型](./2021/210403.md)
 - [进击的 TypeScript（二）- 枚举类型](./2021/210404.md)
 - [进击的 TypeScript（三）- 接口、类、函数](./2021/210405.md)
 - [进击的 TypeScript（四）- 泛型](./2021/210406.md)
 
-### RxJS
+### 3.3 RxJS
 
-### Sass
+### 3.4 Sass
 
 - [CSS 强化装备！Sass 安装与使用](https://segmentfault.com/a/1190000003912703)
 - [Sass 语法小结](https://segmentfault.com/a/1190000008295208)
 - [玩转 Compass Sprite](https://segmentfault.com/a/1190000008309252)
 
-### Gulp
+### 3.5 Gulp
 
 - [干了这杯可乐！Gulp 上手指南](https://segmentfault.com/a/1190000003866363)
 
-### jQuery
+### 3.6 jQuery
 
 - [jQuery中 wrap\(\) wrapAll\(\) 与 wrapInner\(\)的区别](https://segmentfault.com/a/1190000000780313)
 
-## Front-end Framework
+## 4. Front-end Framework
 
 前端框架
 
-### Vue
+### 4.1 Vue
 
 Vue 3 文档学习：
 
@@ -117,7 +111,7 @@ Vue 3 文档学习：
 
 - [Vue 3 文档学习](./2021/211001.md)
 
-### Angular
+### 4.2 Angular
 
 其它：
 
@@ -125,7 +119,7 @@ Vue 3 文档学习：
 - [Angular 动态组件](./2021/210501.md)
 - [Angular DevTools 使用介绍](./2021/210503.md)
 
-### React
+### 4.3 React
 
 React 学习：
 
@@ -143,7 +137,7 @@ React 博客实战：
 
 - [Virtual DOM](./2020/201104.md) *
 
-### Framework7
+### 4.4 Framework7
 
 Framework7 v4 Core 文档翻译：
 
@@ -151,11 +145,11 @@ Framework7 v4 Core 文档翻译：
 - [Framework7 v4 Core 文档翻译（二）](https://juejin.cn/post/6844903891625050120)
 - [Framework7 v4 Core 文档翻译（三）](https://juejin.cn/post/6844903893361491982)
 
-## Multiple-platforms Development
+## 5. Multiple-platforms Development
 
 多端开发
 
-### Miniapp
+### 5.1 Miniapp
 
 小程序开发
 
@@ -171,64 +165,66 @@ Taro 3 文档学习：
 
 - [Taro 3 文档学习](./2021/210902.md)
 
-## Front-end Engineering
+## 6. Front-end Engineering
 
 前端工程化
 
-### Performance Optimization
+### 6.1 Performance Optimization
 
 性能优化
 
 - [拖拽卡顿问题与 setTimeout 探索](./2021/210201.md) *
 
-### Code Quality
+### 6.2 Code Quality
 
 代码质量
 
 - [解决 ESLint 两种错误提示](./2020/201102.md)
 
-### Debugging 
+### 6.3 Debugging 
 
 开发调试
 
 - [解决 Content Download 过载问题](./2020/201001.md)
 
-## Development Toolbox
+## 7. Development Toolbox
 
 开发工具箱
 
-### Development Settings
+### 7.1 Development Settings
 
 开发环境设置
 
 - [Win 前端开发环境快速设置](./2021/210402.md)
 
-### Visual Studio Code
+### 7.2 Visual Studio Code
 
-### Excel
+### 7.3 Excel
 
 - [Excel 两种快速输入](./2020/201105.md)
 
-### Intellij IDEA
+### 7.4 Intellij IDEA
 
 - [Intellij IDEA & Sass 使用记录汇总](https://segmentfault.com/a/1190000008552365) 
 
-### Sublime Text
+### 7.5 Sublime Text
 
 - [使用 Sublime Text 2 编辑 Markdown](https://segmentfault.com/a/1190000000723945)
 - [Sublime Text 使用记录汇总](https://segmentfault.com/a/1190000008594620)
 
-### Eclipse
+### 7.6 Eclipse
 
 - [Eclipse 配置 JDK 环境变量 & Gradle 安装](https://segmentfault.com/a/1190000008431686)
 
-## Version Control
+### 7.7 Markdown
+
+## 8. Version Control
 
 版本控制
 
-### SVN
+### 8.1 SVN
 
-### Git
+### 8.2 Git
 
 - [解决 SourceTree 跳过 Husky git pre-commit 钩子校验问题](./2020/201101.md)
 - [Git 进阶 —— 远程仓库](https://segmentfault.com/a/1190000000738398)
@@ -236,31 +232,31 @@ Taro 3 文档学习：
 - [Git 快速入门](https://segmentfault.com/a/1190000000725599)
 - [本地 Git 仓库设置远程仓库](./2021/211003.md)
 
-### GitHub
+### 8.3 GitHub
 
 - [实现 GitHub 主页展示一周代码使用时间统计](./2021/210401.md)
 - [《GitHub 入门与实践》阅读笔记（第 1 - 3 章）](https://segmentfault.com/a/1190000015724936)
 - [《GitHub 入门与实践》阅读笔记（第 4 章）](https://segmentfault.com/a/1190000015724991)
 - [在 Mac 上如何向 GitHub 提交代码？](https://segmentfault.com/a/1190000015724894)
 
-## Back-end Development
+## 9. Back-end Development
 
 后端开发
 
-### Java
+### 9.1 Java
 
-### Python
+### 9.2 Python
 
-### Apache
+### 9.3 Apache
 
 - [解决安装 XAMPP 后 Apache 无法启动问题](https://segmentfault.com/a/1190000001803636)
 
-## Database
+## 10. Database
 
 数据库
 
-### MySQL
+### 10.1 MySQL
 
-### Redis
+### 10.2 Redis
 
 - [缓存穿透、雪崩和击穿](./2020/201107.md)
