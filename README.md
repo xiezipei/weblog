@@ -16,7 +16,7 @@
 
 [Weblog ProcessOn Mind](https://www.processon.com/view/link/612da15e1efad40d93895ea6)
 
-![mindmap_2021-08-31](https://tva1.sinaimg.cn/large/008i3skNly1guxhywf145j60zo0ozwh202.jpg)
+![Weblog_2021-11-10](https://i.loli.net/2021/11/10/68yRnxpflwF3aXo.png)
 
 ## 1. Personal notes
 
@@ -107,9 +107,7 @@ CSS 学习笔记（完）：
 
 Vue 3 文档学习：
 
-<!-- Focusing -->
-
-- [Vue 3 文档学习](./2021/211001.md)
+- [Vue 3 文档学习](./2021/211001.md) *
 
 ### 4.2 Angular
 
@@ -155,15 +153,11 @@ Framework7 v4 Core 文档翻译：
 
 小程序文档学习：
 
-<!-- Focusing -->
-
-- [小程序文档学习](./2021/210901.md)
+- [小程序文档学习](./2021/210901.md) *
 
 Taro 3 文档学习：
 
-<!-- Focusing -->
-
-- [Taro 3 文档学习](./2021/210902.md)
+- [Taro 3 文档学习](./2021/210902.md) *
 
 ## 6. Front-end Engineering
 
