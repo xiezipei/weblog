@@ -107,7 +107,7 @@ CSS 学习笔记（完）：
 
 Vue 3 文档学习：
 
-- [Vue 3 文档学习](./2021/211001.md) *
+- [Vue 3 文档记录 - WIP](./2021/211001.md)
 
 ### 4.2 Angular
 
@@ -129,11 +129,11 @@ React 学习：
 
 React 博客实战：
 
-- [React 博客实战](./2021/210605.md) *
+- [React 博客实战 - WIP](./2021/210605.md)
 
 其它：
 
-- [Virtual DOM](./2020/201104.md) *
+- [Virtual DOM - WIP](./2020/201104.md)
 
 ### 4.4 Framework7
 
@@ -153,11 +153,11 @@ Framework7 v4 Core 文档翻译：
 
 小程序文档学习：
 
-- [小程序文档学习](./2021/210901.md) *
+- [小程序文档学习 - WIP](./2021/210901.md)
 
 Taro 3 文档学习：
 
-- [Taro 3 文档学习](./2021/210902.md) *
+- [Taro 3 文档学习 - WIP](./2021/210902.md)
 
 ## 6. Front-end Engineering
 
@@ -167,7 +167,7 @@ Taro 3 文档学习：
 
 性能优化
 
-- [拖拽卡顿问题与 setTimeout 探索](./2021/210201.md) *
+- [拖拽卡顿问题与 setTimeout 探索 - WIP](./2021/210201.md)
 
 ### 6.2 Code Quality
 
@@ -181,6 +181,13 @@ Taro 3 文档学习：
 
 - [解决 Content Download 过载问题](./2020/201001.md)
 
+### 6.4 Project Scaffold
+
+项目脚手架
+
+- [前端项目起手式 - WIP](./2021/211101.md)
+
+
 ## 7. Development Toolbox
 
 开发工具箱
@@ -192,6 +199,13 @@ Taro 3 文档学习：
 - [Win 前端开发环境快速设置](./2021/210402.md)
 
 ### 7.2 Visual Studio Code
+
+快捷键（Win）：
+
+1. `ctrl + shift + f` - 全局搜索
+2. `ctrl + k`，`shift + Enter` - 固定文件
+3. `ctrl + p`，输入 `:[行数]` - 快速跳转行
+4. `ctrl + p` - 快速搜索文件
 
 ### 7.3 Excel
 
@@ -211,6 +225,13 @@ Taro 3 文档学习：
 - [Eclipse 配置 JDK 环境变量 & Gradle 安装](https://segmentfault.com/a/1190000008431686)
 
 ### 7.7 Markdown
+
+### 7.8 Chrome
+
+快捷键（Win）：
+
+1. `ctrl + shift + b` 显示/隐藏书签栏
+2. `ctrl + shift + o` 打开书签管理器
 
 ## 8. Version Control
 
