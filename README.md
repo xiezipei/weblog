@@ -109,6 +109,27 @@ Vue 3 文档学习：
 
 - [Vue 3 文档记录 - WIP](./2021/211001.md)
 
+Vite 问题记录：
+
+如果导入的组件名，出现大小写，将会导致页面不会自动刷新。
+
+例如下面这样就不会自动刷新：
+
+```html
+<script setup>
+import Counter from "./components/counter.vue"
+</script>
+
+<template>
+  <div>Computed</div>
+  <Counter />
+</template>
+
+<style>
+
+</style>
+````
+
 ### Angular
 
 其它：
